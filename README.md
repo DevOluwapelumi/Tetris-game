@@ -1,6 +1,5 @@
 ---
 
-````markdown
 # 🎮 TetrisGamings - A Classic Reimagined with Next.js
 
 Welcome to **Tetris** — a sleek, modern take on the iconic Tetris game, reimagined using **Next.js**, **TypeScript**, and **TailwindCSS**. Built with performance, responsiveness, and a touch of nostalgia. Let's stack blocks and break lines in style!
